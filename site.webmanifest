@@ -1,9 +1,18 @@
 {
-  "name": "Trung Tâm Anh Văn Giao Tiếp Biên Hòa",
+  "name": "Tiếng Anh Giao Tiếp Biên Hòa — Học Miễn Phí",
   "short_name": "Anh Văn Biên Hòa",
+  "description": "Nguồn học tiếng Anh giao tiếp miễn phí không cần đăng nhập tại Biên Hòa, Đồng Nai: mẫu câu, từ vựng, phát âm, luyện nghe-nói và tình huống thực tế.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#f8fafc",
   "theme_color": "#092d55",
-  "lang": "vi"
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
