@@ -1,1 +1,20 @@
-Trung Tâm Tiếng Anh Giao Tiếp Biên HòaUnlock Your English, Unlock Your Future.Học tiếng Anh để sử dụng trong thực tế – Xây dựng nền tảng, cải thiện phản xạ nghe – nói và tự tin giao tiếp trong cuộc sống cũng như công việc.🌐 Đây là trang của Trung Tâm Anh Văn Giao Tiếp Biên Hòa (Biên Hòa, Đồng Nai).Trang web chính thức: [https://tienganhgiaotiepbienhoa.pages.dev/] Kênh thông tin (Violet): https://anhvangiaotiepobienhoa.violet.vn/🎯 Định Hướng & Giá Trị Đào TạoBiên Hòa và Đồng Nai là khu vực có môi trường học tập, sản xuất, kinh doanh và dịch vụ năng động. Trung tâm hướng đến việc giúp người học từng bước vượt qua rào cản ngoại ngữ thông qua phương pháp thực hành sát với nhu cầu thực tế:Học theo mục tiêu: Nội dung được định hướng bám sát trình độ và nhu cầu sử dụng của từng học viên.Ưu tiên giao tiếp: Chú trọng luyện phát âm, phản xạ nghe – nói và thực hành hội thoại theo tình huống.Ứng dụng công việc: Rèn luyện các mẫu câu, tình huống giao tiếp phục vụ trực tiếp cho môi trường làm việc.Lộ trình 4 bước rõ ràng: Xác định nhu cầu $\rightarrow$ Củng cố nền tảng $\rightarrow$ Thực hành giao tiếp $\rightarrow$ Ứng dụng thực tế.📚 Các Chương Trình Đào TạoTrung tâm cung cấp đa dạng các khóa học phù hợp cho người mất gốc, học sinh – sinh viên, người đi làm và những ai cần tiếng Anh cho mục đích cụ thể:🌱 Tiếng Anh giao tiếp căn bản: Dành cho người mất gốc, củng cố phát âm, từ vựng và mẫu câu thiết yếu.💬 Giao tiếp nâng cao: Mở rộng vốn diễn đạt, tăng phản xạ nghe – nói trong nhiều tình huống thực tế.💼 Tiếng Anh cho người đi làm: Thực hành trao đổi với đồng nghiệp, cấp trên, khách hàng; họp, báo cáo và gọi điện.📊 Tiếng Anh thương mại: Viết email, thuyết trình, đàm phán trong môi trường kinh doanh.🏭 Tiếng Anh chuyên ngành: Định hướng theo lĩnh vực QA/QC, sản xuất, kỹ thuật, kế toán, nhân sự, Sales, nhà hàng – khách sạn.✈️ Tiếng Anh du lịch & xuất cảnh: Giao tiếp tại sân bay, khách sạn, nhà hàng, mua sắm và hỏi đường.🎤 Tiếng Anh phỏng vấn xin việc: Giới thiệu bản thân, trình bày kinh nghiệm và trả lời câu hỏi tuyển dụng.💅 Tiếng Anh chuyên ngành Nails: Từ vựng và mẫu câu tư vấn dịch vụ, chăm sóc khách hàng tại salon.👤 Lớp học 1 kèm 1: Cá nhân hóa nội dung và thời gian học theo mục tiêu riêng của học viên.📂 Cấu Trúc Mã NguồnKho lưu trữ bao gồm các tệp tĩnh được tối ưu hóa cho tốc độ tải trang và SEO:index.html: Giao diện trang chủ (HTML5, CSS3 responsive, JavaScript thuần và dữ liệu có cấu trúc Schema.org).favicon.svg: Biểu tượng nhận diện thương hiệu của trang web.site.webmanifest: Tệp cấu hình hỗ trợ hiển thị ứng dụng web (PWA).robots.txt & sitemap.xml: Tệp hỗ trợ công cụ tìm kiếm (Google) thu thập dữ liệu và lập chỉ mục.📞 Thông Tin Liên Hệ & Tư VấnQuý học viên có nhu cầu tìm hiểu về lộ trình, lịch học và học phí vui lòng liên hệ trực tiếp:Người phụ trách: Thầy TrầnHotline / Zalo: 0903 774 745Email: thandongtre@gmail.comĐịa chỉ: 19/6 Đường Thầy Trần, KP6, phường Long Bình, Biên Hòa, Đồng Nai (Vui lòng liên hệ xác nhận trước khi đến).
+# Tiếng Anh Giao Tiếp Biên Hòa – Open English Learning
+
+Website học tiếng Anh miễn phí, truy cập mở, không yêu cầu đăng nhập hoặc tạo tài khoản.
+
+## Nội dung chính
+- Open English Knowledge Encyclopedia: tra cứu và học theo lĩnh vực/cấp độ.
+- Thư viện từ vựng và mẫu câu, flashcards, quiz.
+- Kho cấu trúc câu, bài luyện 12 thì và bài kiểm tra trình độ.
+- Góc kiến thức và English Fun Zone.
+- Khu vực chương trình học cùng giảng viên là lựa chọn riêng, không bắt buộc để dùng học liệu miễn phí.
+
+## Công nghệ và triển khai
+Đây là website tĩnh, dùng HTML, CSS và JavaScript thuần; không có hệ thống tài khoản hoặc đăng nhập. Có thể triển khai trên Cloudflare Pages bằng cách upload/deploy thư mục chứa `index.html`, `robots.txt`, `sitemap.xml`, `favicon.svg` và `site.webmanifest`.
+
+## SEO
+- Canonical, Open Graph và Schema.org dùng tên miền `https://tienganhgiaotiepbienhoa.pages.dev/`.
+- Sitemap: `/sitemap.xml`; robots: `/robots.txt`.
+
+## Lưu ý nội dung
+Chỉ đăng lời nhận xét học viên khi đã có sự đồng ý và có thể xác minh. Website không nên dùng đánh giá, số liệu hoặc chứng nhận không có căn cứ.

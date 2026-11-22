@@ -9,4 +9,4 @@ Disallow: /login/
 Disallow: /private/
 
 # Explicitly declare the path to your official Sitemap
-Sitemap: https://anhvangiaotiepbienhoa.pages.dev/sitemap.xml
+Sitemap: https://tienganhgiaotiepbienhoa.pages.dev/sitemap.xml
