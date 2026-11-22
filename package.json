@@ -1,0 +1,10 @@
+{
+  "name": "anhvangiaotiepbienhoa-seo-manager",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "seo:audit": "node scripts/audit.mjs"
+  },
+  "devDependencies": {}
+}

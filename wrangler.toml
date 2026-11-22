@@ -1,0 +1,12 @@
+# Cloudflare Pages project bindings.
+# Replace database_id after creating a D1 database and binding it as DB.
+name = "anhvangiaotiepbienhoa"
+compatibility_date = "2026-11-22"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "seo-manager"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+
+# Configure the Pages Workers AI binding named AI in Cloudflare Dashboard.

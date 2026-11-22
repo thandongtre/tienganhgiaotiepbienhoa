@@ -1,4 +1,12 @@
+# Allow all search engine bots to crawl the entire website
 User-agent: *
 Allow: /
 
-Sitemap: https://tienganhgiaotiepbienhoa.pages.dev/sitemap.xml
+# Block bots from accessing administrative, login, or private folders (if applicable later)
+Disallow: /admin/
+Disallow: /seo-admin/
+Disallow: /login/
+Disallow: /private/
+
+# Explicitly declare the path to your official Sitemap
+Sitemap: https://anhvangiaotiepbienhoa.pages.dev/sitemap.xml
