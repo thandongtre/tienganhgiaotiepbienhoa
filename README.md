@@ -15,18 +15,6 @@ Mục lục
 
 4. Khả năng tiếp cận học tập
 
-5. Nền tảng công nghệ
-
-6. Triển khai và lưu trữ
-
-7. Tối ưu hóa công cụ tìm kiếm (SEO)
-
-8. Nguyên tắc biên soạn và kiểm soát chất lượng nội dung
-
-9. Phạm vi và định hướng hoạt động
-
-10. Thông tin chính thức
-
 1. Tổng quan dự án
 
 Tiếng Anh Giao Tiếp Biên Hòa là nền tảng giáo dục trực tuyến tập trung vào việc xây dựng, hệ thống hóa và phổ biến các nguồn học liệu tiếng Anh theo từng lĩnh vực kiến thức và trình độ người học.
